@@ -26,7 +26,9 @@ const Nav = () => {
                         <li className={styles.navbarItem}>
                             <Link className={styles.navbarLink}
                                   onClick={() => setOpenMenu(false)}
-                                  href="/movie">Movie</Link>
+                                  href="/movie">
+                                    Movie
+                                  </Link>
                         </li>
                         <li className={styles.navbarItem}>
                             <Link className={styles.navbarLink}
