@@ -23,9 +23,9 @@ const Footer = () => {
                             </Link>
                         </div>
                         <div className={footerStyles[`media-icons`]}>
-                            <Link href="https://www.instagram.com/_.k_a_n_o_208._/" target="_blank"><i > <FaInstagram/>  </i></Link>
-                            <Link href="https://www.linkedin.com/in/vraj-gadhiya-7b5b3223a/"><i > <FaLinkedinIn /> </i></Link>
-                            <Link href="https://twitter.com/gadhiya_vraj"><i > <FaTwitter/> </i> </Link>
+                            <Link href="https://www.instagram.com/netflix_in/?hl=en" target="_blank"><i > <FaInstagram/>  </i></Link>
+                            <Link href="https://www.linkedin.com/company/netflix/"><i > <FaLinkedinIn /> </i></Link>
+                            <Link href="https://twitter.com/netflix"><i > <FaTwitter/> </i> </Link>
                         </div>
                     </div>
                     <div className={footerStyles['link-boxes']}>
